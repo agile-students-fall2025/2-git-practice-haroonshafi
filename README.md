@@ -1,4 +1,4 @@
-# Agile Development & DevOps Practice 
+# Agile Software Development & DevOps Practice 
 
 ## Article I Found Interesting
 **Title:** Software Projects Don’t Have to Be Late, Costly, and Irrelevant
