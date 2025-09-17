@@ -11,4 +11,4 @@ It also gave me insight into why version control and clear workflows are essenti
 
 ### Comment by Amal Faisal
 
-I like how the article focused on consistency, especially keeping development and production aligned to prevent surprises. It made me appreciate the hidden work behind software that “just works.”
+I like how the article focused on consistency, especially keeping development and production aligned to prevent surprises. It made me appreciate the hidden work behind software that "just works".
