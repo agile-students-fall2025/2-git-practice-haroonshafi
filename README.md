@@ -1,6 +1,6 @@
 # Agile Software Development & DevOps Practice 
 
-## Article I Found Interesting
+## Article 
 **Title:** Software Projects Don’t Have to Be Late, Costly, and Irrelevant
 
 **Link:** https://www.bcg.com/publications/2024/software-projects-dont-have-to-be-late-costly-and-irrelevant?utm_source=chatgpt.com
