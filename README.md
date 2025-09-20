@@ -15,6 +15,6 @@ I like how the article focused on consistency, especially keeping development an
 
 ### Comment by Haider Asif
 
-I have been looking into designing SaaS apps myself, so this was really helpful in terms of teaching me what practices work best in this field.
+I have recently been looking into designing SaaS apps myself, so this was really helpful in terms of teaching me what practices work best in this field.
 
 
