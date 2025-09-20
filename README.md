@@ -13,4 +13,8 @@ It also gave me insight into why version control and clear workflows are essenti
 
 I like how the article focused on consistency, especially keeping development and production aligned to prevent surprises. It made me appreciate the hidden work behind software that “just works.”
 
+### Comment by Haider Asif
+
+I have been looking into designing SaaS apps myself, so this was really helpful in terms of teaching me what practices work best in this field.
+
 
